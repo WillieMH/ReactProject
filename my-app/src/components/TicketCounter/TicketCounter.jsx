@@ -9,10 +9,7 @@ const CounterFunc = () => {
 
 
   const ticketPlus = () => {
-
-    const beep = new Audio("../../assets/stop-13692.mp3");
     setTicketCount (ticketCount + 1);
-    beep.play();
   };
 
   const ticketMinus = () => {
