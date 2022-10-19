@@ -1,0 +1,27 @@
+
+
+
+.eachCard {
+  border: 1px solid blue;
+  background-color: antiquewhite;
+  width: 300px;
+  text-align: center;
+  margin: 10px;
+
+  h4{
+    text-align: left;
+    font-weight: 600;
+  }
+
+  button {
+    border-radius: 49%;
+    padding: 15px;
+  }
+
+  .counter {
+    border: 1px solid orchid;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+  }
+}

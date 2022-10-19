@@ -1,0 +1,3 @@
+Install sass dev on each react install @
+
+npm install sass ---save-dev
