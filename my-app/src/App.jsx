@@ -10,16 +10,16 @@ const App = () => {
   console.log(teamData);
 
   return (
-    <>
-      <main className="app">
+    <main>
+      <div className="app">
         <section className="ticket-tracker">
-        <h2>Ticket Tracker</h2>
+        <h1>TICKET TRACKER</h1>
         <div className="employee-display">
           <EmployeeDetails title="Employee" teamArr={teamData}/>
         </div>
         </section>
-      </main>
-    </>
+      </div>
+    </main>
   );
 }
 

@@ -1,0 +1,14 @@
+@font-face {
+  font-family:"CalcDigis";
+  src: url("../../assets/Digital7-1e1Z.ttf") format("truetype");
+}
+
+.countDisplay {
+  font-family: "CalcDigis", sans-serif;
+  font-size: 40px;
+}
+
+.btnDisplay {
+  display: flex;
+  justify-content: space-around;
+}

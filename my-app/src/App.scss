@@ -1,15 +1,46 @@
-.app {
+* {
   box-sizing: border-box;
 }
 
+body {
+  background-image: url("./assets/bg.jpg");
+  background-size: cover;
+  height: 100%;
+}
 .ticket-tracker {
-  border: 1px solid green;
+  width: 80%;
   margin: auto;
+
 }
 
-.flexme {
+h1 {
+  font-size: 40px;
+  color: aliceblue;
+}
+
+.employee-display {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 10px;
-  padding: 20px;
+  padding: 5px;
+}
+
+@media only screen and (max-width: 1200px) {
+
+  .employee-display {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    padding: 5px;
+  }
+}
+
+@media only screen and (max-width: 765px) {
+
+  .employee-display {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 5px;
+    padding: 5px;
+  }
 }

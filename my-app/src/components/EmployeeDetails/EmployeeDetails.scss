@@ -2,11 +2,14 @@
 
 
 .eachCard {
-  border: 1px solid blue;
-  background-color: antiquewhite;
+  border: 4px solid darkblue;
+  border-radius: 8px;
+  background-color: rgba(250, 235, 215, 0.7);
   width: 300px;
   text-align: center;
-  margin: 10px;
+  // margin: 10px;
+  padding: 5px;
+  line-height: 5px;
 
   h4{
     text-align: left;
@@ -14,14 +17,26 @@
   }
 
   button {
-    border-radius: 49%;
-    padding: 15px;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+
   }
 
+  button:hover{
+    background-color: rgb(65, 178, 210);
+  }
+
+
   .counter {
-    border: 1px solid orchid;
+    border: 2px solid darkblue;
+    border-radius: 8px;
     background-color: aliceblue;
-    display: flex;
     justify-content: center;
+    margin: auto;
+    width: 75%;
+    padding-bottom: 5px;
   }
 }

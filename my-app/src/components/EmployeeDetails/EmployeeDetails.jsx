@@ -16,7 +16,7 @@ const EmployeeDetails = (props) => {
 
   return (
 
-      <div className="flexme">{emplInfo}</div>
+      <>{emplInfo}</>
 
   )
 };
