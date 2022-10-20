@@ -13,7 +13,7 @@ const App = () => {
     <main>
       <div className="app">
         <section className="ticket-tracker">
-        <h1>TICKET TRACKER</h1>
+        <h1>GOLDEN TICKET TRACKER</h1>
         <div className="employee-display">
           <EmployeeDetails title="Employee" teamArr={teamData}/>
         </div>
