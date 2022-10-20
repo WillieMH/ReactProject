@@ -31,3 +31,4 @@ Main issues still with the app;
   2- I initially had problems getting the counter to work as a seperate counter.  A seperate counter was on each employee card but clicking minus/plus on one was causing EVERY counter to go up or down.  I couldn't work out how to get the counter variables and state inside the .map function.  I resolved this by creating the counter func inside another componet and called this within the return in the EmployeeDetails.jsx component.
   3- When using hooks, the name of the component/function MUST start with an Uppercase letter.  React doesn't seem to like it when you don't
   4- SCSS Partials; I've not used them at all and all colouring is called in each individual element.  I haven't carried out the variables and partials work as I want to spend my time going over React lessons.
+  5- Had initial problem with SASS not working.  Need to carry out install after loading up React Project (npm install sass --save-dev)
