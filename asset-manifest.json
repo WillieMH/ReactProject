@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/WillieMH/ReactProject/static/css/main.d131a32e.css",
-    "main.js": "/WillieMH/ReactProject/static/js/main.69f3549e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/WillieMH/ReactProject/static/js/787.28cb0dcd.chunk.js",
-    "static/media/bg.jpg": "/WillieMH/ReactProject/static/media/bg.494fd4e32a966a62b6d7.jpg",
-    "static/media/Digital7-1e1Z.ttf": "/WillieMH/ReactProject/static/media/Digital7-1e1Z.93911ab167c943140756.ttf",
-    "index.html": "/WillieMH/ReactProject/index.html",
-    "main.d131a32e.css.map": "/WillieMH/ReactProject/static/css/main.d131a32e.css.map",
-    "main.69f3549e.js.map": "/WillieMH/ReactProject/static/js/main.69f3549e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/WillieMH/ReactProject/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/ReactProject/static/css/main.cc43c66c.css",
+    "main.js": "/ReactProject/static/js/main.424737dc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ReactProject/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg2.jpg": "/ReactProject/static/media/bg2.7531c4704ba785a1e587.jpg",
+    "static/media/Digital7-1e1Z.ttf": "/ReactProject/static/media/Digital7-1e1Z.93911ab167c943140756.ttf",
+    "index.html": "/ReactProject/index.html",
+    "main.cc43c66c.css.map": "/ReactProject/static/css/main.cc43c66c.css.map",
+    "main.424737dc.js.map": "/ReactProject/static/js/main.424737dc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ReactProject/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d131a32e.css",
-    "static/js/main.69f3549e.js"
+    "static/css/main.cc43c66c.css",
+    "static/js/main.424737dc.js"
   ]
 }
